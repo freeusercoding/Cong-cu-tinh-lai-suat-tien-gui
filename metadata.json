@@ -1,0 +1,6 @@
+{
+  "name": "Công Cụ Tính Lãi Suất Tiền Gửi",
+  "description": "Công cụ tính lãi suất tiền gửi ngân hàng thông thường trả lãi sau, tích hợp biểu đồ trực quan, bảng phân bổ dòng tiền và xuất file Excel / PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
